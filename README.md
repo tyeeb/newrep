@@ -1,5 +1,6 @@
-# newrep
-this is a calculator 
-Builded with python
-using tkinter
-and it also has a text to speech engine.
+GitHub - Final - Project
+Calculator that calcuates simple interest 
+when given principal,annual rate of interest ,and time perios(years)
+input: p = principal
+       t =  time perios(years)
+       r = annual rate of interest
